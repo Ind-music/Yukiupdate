@@ -98,7 +98,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         buttons.append(
             [
                 InlineKeyboardButton(text=_["S_B_7"], user_id=OWNER),
-                InlineKeyboardButton(text="❰𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎❱", url=f"https://telegra.ph/Lehar-Music-Bot-cOmmANds-06-19",
+                InlineKeyboardButton(text="❰𝐆𝐫𝐨𝐮𝐩❱", url=f"https://t.me/+An4yRwJGNq5mZWFl",
                 ),
             ]
         )
@@ -106,7 +106,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         if GITHUB_REPO:
             buttons.append(
                 [
-                     InlineKeyboardButton(text="❰𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎❱", url=f"https://telegra.ph/Lehar-Music-Bot-cOmmANds-06-19",
+                     InlineKeyboardButton(text="❰𝐆𝐫𝐨𝐮𝐩❱", url=f"https://t.me/+An4yRwJGNq5mZWFl",
                     ),
                 ]
             )
