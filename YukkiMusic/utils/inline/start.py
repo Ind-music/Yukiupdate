@@ -115,8 +115,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         if GITHUB_REPO:
             buttons.append(
                 [
-                    InlineKeyboardButton(
-                        text=_["S_B_6"], url=f"{GITHUB_REPO}"
+                     InlineKeyboardButton(text="❰𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎❱", url=f"https://telegra.ph/Lehar-Music-Bot-cOmmANds-06-19",
                     ),
                 ]
             )
